@@ -1,5 +1,5 @@
-[README (1).md](https://github.com/user-attachments/files/32453285/README.1.md)
-[Uploading README (1).md…]()<div align="center">
+
+<div align="center">
 
 # Dhruv Sharma
 
@@ -7,8 +7,8 @@
 
 *I build grounded, measurable AI systems: retrieval pipelines, agent workflows, and an LLM inference engine written from scratch.*
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/dhruv-sharma9015150070/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="mailto:dhruvsharmahp0001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-View-1F2937?style=for-the-badge" alt="Resume"/></a>
 
 </div>
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About
 
-I'm a **[YOUR DEGREE]** student at **[YOUR COLLEGE]**, focused on building LLM applications that are **grounded, tested and measurable**. I care about what makes AI systems trustworthy in practice (citations, safety guardrails, evaluation, latency, observability), not just the demo.
+I'm a **BTECH/IITM BS DEGREE** student at **UIIT SHIMLA/IIT MADRAS**, focused on building LLM applications that are **grounded, tested and measurable**. I care about what makes AI systems trustworthy in practice (citations, safety guardrails, evaluation, latency, observability), not just the demo.
 
 - 🔎 **Retrieval & grounded QA**: hybrid BM25 + dense search, rank fusion, citation validation
 - 🤖 **Agentic workflows**: LangGraph state machines with self-critique and retry loops
@@ -143,7 +143,7 @@ A LangGraph agent that plans, searches, critiques its own findings and re-invest
 
 <div align="center">
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) · [Email](mailto:YOUR-EMAIL@gmail.com)
+
 
 *Building one measurable project at a time.*
 
